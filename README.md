@@ -4,7 +4,7 @@
 
 Un CV personnel interactif et moderne créé avec **HTML5**, **CSS3**, **jQuery** et **React**. Hébergé sur **GitHub Pages** avec un design créatif et unique, animations fluides et composants dynamiques.
 
-**URL Live:** `https://username.github.io`
+**URL Live:**  https://mehdiminnouch-hue88.github.io/
 
 ---
 
