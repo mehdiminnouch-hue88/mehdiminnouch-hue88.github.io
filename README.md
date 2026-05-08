@@ -216,7 +216,7 @@ git push -u origin main
 
 ### Étape 5 : Vérifier
 
-Accéder à `https://username.github.io` après quelques minutes.
+Accéder à https://mehdiminnouch-hue88.github.io/ après quelques minutes.
 
 ---
 
