@@ -260,14 +260,14 @@ const projects = [
         description: 'Plateforme de commerce électronique moderne avec interface utilisateur intuitive. Intégration des fonctionnalités de panier, de gestion des produits et de checkout.',
         technologies: ['HTML', 'CSS', 'JavaScript'],
         github: 'https://github.com/abdellaheddamani18-ai/PROJET-FAKHAR-.SHOP.git',
-        demo: '[]'
+        demo: 'https://madmix55.github.io/FAKHAR.SHOP/'
     },
     {
         title: 'Firewall de Détection d\'Attaques Réseau',
         description: 'Système de détection d\'intrusions en temps réel capable d\'identifier et journaliser les attaques réseau (Man-in-the-Middle par ARP Spoofing, DoS, scan de ports, brute force). Le projet intègre un moteur de capture de paquets, une API REST avec WebSocket et un dashboard interactif affichant les alertes en temps réel.',
         technologies: ['Python', 'Scapy', 'Flask', 'WebSocket', 'React.js'],
         github: 'https://github.com/MADMIX55',
-        demo: '[À ajouter]'
+        demo: ''
     },
     {
         title: 'Jeu 2D en C++ Orienté Objet',
@@ -281,7 +281,7 @@ const projects = [
         description: 'Étude et simulation d\'un vecteur d\'attaque par ingénierie sociale sur un environnement personnel contrôlé, en utilisant Metasploit Framework. Ce projet a permis de comprendre les mécanismes d\'exploitation des permissions mobiles et de concevoir des contre-mesures adaptées.',
         technologies: ['Metasploit', 'Ingénierie Sociale', 'Android'],
         github: 'https://github.com/MADMIX55',
-        demo: '[À ajouter]'
+        demo: ''
     }
 ];
 
