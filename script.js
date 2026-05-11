@@ -259,7 +259,7 @@ const projects = [
         title: 'FAKHAR SHOP',
         description: 'Plateforme de commerce électronique moderne avec interface utilisateur intuitive. Intégration des fonctionnalités de panier, de gestion des produits et de checkout.',
         technologies: ['HTML', 'CSS', 'JavaScript'],
-        github: 'https://github.com/abdellaheddamani18-ai/PROJET-FAKHAR-.SHOP.git',
+        github: 'https://github.com/MADMIX55/FAKHAR.SHOP',
         demo: 'https://madmix55.github.io/FAKHAR.SHOP/'
     },
     {
